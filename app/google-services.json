@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "330778973241",
+    "project_id": "farmeazy-34753",
+    "storage_bucket": "farmeazy-34753.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330778973241:android:50c6580b0c5be8bd5229e8",
+        "android_client_info": {
+          "package_name": "com.example.farmeasy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330778973241-pf4b6h74ctmsi3c6eks543bud0q9hm51.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGpjPd3DxDD53Yd8SCOFF9YCx0-qmZov8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "330778973241-pf4b6h74ctmsi3c6eks543bud0q9hm51.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330778973241:android:d03d8ac200b849c25229e8",
+        "android_client_info": {
+          "package_name": "com.example.farmeazy2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330778973241-pf4b6h74ctmsi3c6eks543bud0q9hm51.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGpjPd3DxDD53Yd8SCOFF9YCx0-qmZov8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "330778973241-pf4b6h74ctmsi3c6eks543bud0q9hm51.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
